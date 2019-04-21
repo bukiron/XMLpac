@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>PAC desarrollo</title>
+		<link>https://github.com/bukiron/XMLpac.git</link>
+		<description>Ejemplo de RSS</description>
+		<item>
+			<title>Libertad Digital</title>
+			<link>https://www.libertaddigital.com/rss/</link>
+			<description>Información general variada</description>
+		</item>
+		<item>
+			<title>Cursos online</title>
+			<link>https://cursos.universia.net/index.html</link>
+			<description>Diferentes cursos online</description>
+		</item>
+		<item>
+			<title>El País</title>
+			<link>https://elpais.com/</link>
+			<description>Noticias sobre el país</description>
+		</item>
+		<item>
+			<title>Ilerna</title>
+			<link>https://www.ilerna.es/es</link>
+			<description>Centro de estudios online</description>
+		</item>
+		<item>
+			<title>Orquesta Sinfónica de Berlín</title>
+			<link>https://www.berliner-philharmoniker.de/en/</link>
+			<description>Página de la orquesta de Berlín</description>
+		</item>
+
+	</channel>
+
+</rss>
